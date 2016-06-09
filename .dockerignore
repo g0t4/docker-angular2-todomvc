@@ -1,0 +1,7 @@
+# ignore everything in todomvc
+todomvc 
+# whitelist angular2 example
+!todomvc/examples/angular2 
+.git
+# Always exclude node_modules folders
+**/node_modules 
